@@ -1,7 +1,7 @@
 # 🐍 Mang_She
 
-> 这是 @maimote02-coder 的 Python 学习仓库，用来记录练习、笔记和踩坑。  
-> 吉祥物 @FreshAcrobat 。
+> 这是 [@maimote02-coder](https://github.com/maimote02-coder) 的 Python 学习仓库，用来记录练习、笔记和踩坑。  
+> 吉祥物 [@FreshAcrobat](https://github.com/FreshAcrobat) 。
 
 ![Python](https://img.shields.io/badge/Python-学习中-blue)
 
@@ -33,8 +33,8 @@ python hello.py
 ## 👥 贡献者
 | 成员 | 身份 |
 | --- | --- |
-| @maimote02-coder | 学习者 |
-| @FreshAcrobat | 划水 |
+| [@maimote02-coder](https://github.com/maimote02-coder) | 学习者 |
+| [@FreshAcrobat](https://github.com/FreshAcrobat) | 划水 |
 
 ---
 
