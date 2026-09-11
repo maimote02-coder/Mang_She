@@ -19,6 +19,7 @@
 
 ```python
 print("Hello, Python!")
+print("Hello,FreshArcbat")
 ```
 
 运行：
